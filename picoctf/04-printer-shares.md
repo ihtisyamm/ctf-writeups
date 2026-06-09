@@ -3,7 +3,7 @@
 **Category:** General Skills  
 **Difficulty:** Easy  
 **Points:** 50  
-**Flag:** `picoCTF{...}` *(retrieved from flag.txt)*
+**Flag:** `picoCTF{5mb_pr1nter_5h4re5_8eb6dd5d}`
 
 ---
 

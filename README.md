@@ -17,7 +17,7 @@ A collection of my CTF (Capture The Flag) challenge writeups. Currently focused 
 
 ## About
 
-I'm Muhammad Ihtisyam, an MEng Computer Science graduate specialising in cybersecurity.
+I'm Muhammad Ihtisyam, an MEng Computer Science graduate at University of Leeds.
 
 ---
 
